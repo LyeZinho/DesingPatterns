@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DesingPatterns.SimpleFactory
+namespace DesingPatterns.Criacional.SimpleFactory
 {
     public enum TipoPizza
     {
