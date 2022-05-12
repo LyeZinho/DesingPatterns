@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace DesingPatterns.Criacional.Factory
+﻿namespace DesingPatterns.Criacional.Factory
 {
     public enum CarroModelo
     {
@@ -19,7 +13,7 @@ namespace DesingPatterns.Criacional.Factory
     {
         void GetCarro();
     }
-    //Tesla classes concreta
+    //Tesla classes concretas
     public class TeslaModelX : ICarroF
     {
         public void GetCarro()
@@ -27,14 +21,14 @@ namespace DesingPatterns.Criacional.Factory
             Console.WriteLine("Model X");
         }
     }
-    public class TeslaModelY : ICarroF
+    public class TeslaModelY : ICarroF   
     {
         public void GetCarro()
         {
             Console.WriteLine("Model Y");
         }
     }
-
+     
     //Porsche classes concretas
     public class PorschePanamera : ICarroF
     {
