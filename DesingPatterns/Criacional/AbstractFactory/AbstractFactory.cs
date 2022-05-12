@@ -153,7 +153,7 @@ namespace DesingPatterns.Criacional.AbstractFactory
 
     /*
     Factory´s Abstratas 
-    a classe abstrata mostra um pattern em que os objetos estão 
+    a factory abstrata mostra um pattern em que os objetos estão 
     bem mais relacionados entre si criando uma familia de objetos 
     que estão relacionados entre si sem a nessesidade de especificar 
     as suas classes concretas.
