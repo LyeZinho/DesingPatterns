@@ -12,11 +12,13 @@ namespace DesingPatterns.SimpleFactory
         marguerita  = 2
     }
 
+    //Interface para Pizza
     public interface IPizza
     {
         void PrepararPizza();
     }
 
+    //Classes derivadas de pizza
     public class Calabreza : IPizza
     {
         public void PrepararPizza()
@@ -33,6 +35,7 @@ namespace DesingPatterns.SimpleFactory
         }
     }
 
+    //Factory para o objeto pizza
     public class PizzaFactory
     {
         public static IPizza CriarPizza(TipoPizza tipo)
@@ -48,4 +51,21 @@ namespace DesingPatterns.SimpleFactory
             }
         }
     }
+
+    /*
+    Agora todos os lugares que forem nessessario criar uma nova pizza
+    não e nesessario criar uma tonelada de operadores new e expor a logica
+    de criação para a interface isso tamber reduz o acoplamento das classes e 
+    metodos o que deixa o codigo mais expansivel e limpo 
+
+    Pontos positivos
+    - Reduz o acoplamento de codigo
+    - Facilita na hora de fazer a refatoração
+    - Facilita testes unitarios
+    - Reduz o acoplamento do codigo
+    > Esconde a logica de instanciamento de objetos <
+
+    IPizza pizza = PizzaFactory.CriarPizza(TipoPizza.marguerita);
+    pizza.PrepararPizza(); 
+    */
 }
