@@ -65,6 +65,7 @@ namespace DesingPatterns.SimpleFactory
     - Reduz o acoplamento do codigo
     > Esconde a logica de instanciamento de objetos <
 
+    Como instanciar um objeto usando uma factory
     IPizza pizza = PizzaFactory.CriarPizza(TipoPizza.marguerita);
     pizza.PrepararPizza(); 
     */
