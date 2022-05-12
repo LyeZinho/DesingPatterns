@@ -13,13 +13,13 @@ namespace DesingPatterns.SimpleFactory
     }
 
     //Interface para Pizza
-    public interface IPizza
+    public interface IPizzaSf
     {
         void PrepararPizza();
     }
 
     //Classes derivadas de pizza
-    public class Calabreza : IPizza
+    public class Calabreza : IPizzaSf
     {
         public void PrepararPizza()
         {
@@ -27,7 +27,7 @@ namespace DesingPatterns.SimpleFactory
         }
     }
 
-    public class Marguerita : IPizza
+    public class Marguerita : IPizzaSf
     {
         public void PrepararPizza()
         {
@@ -38,7 +38,7 @@ namespace DesingPatterns.SimpleFactory
     //Factory para o objeto pizza
     public class PizzaFactory
     {
-        public static IPizza CriarPizza(TipoPizza tipo)
+        public static IPizzaSf CriarPizza(TipoPizza tipo)
         {
             switch (tipo)
             {
@@ -66,7 +66,7 @@ namespace DesingPatterns.SimpleFactory
     > Esconde a logica de instanciamento de objetos <
 
     Como instanciar um objeto usando uma factory
-    IPizza pizza = PizzaFactory.CriarPizza(TipoPizza.marguerita);
+    IPizzaSf pizza = PizzaFactory.CriarPizza(TipoPizza.marguerita);
     pizza.PrepararPizza(); 
     */
 }
