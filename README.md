@@ -1,7 +1,8 @@
 
 #  🐱‍💻 DesingPatterns 🐱‍💻
 Aprendendo desing patterns<br>
-Repositorio com documentação para os desing patterns
+Repositorio com minha documentação pessoal para<br>
+introdução aos desing patterns
 <br><br>
 Oque é um desing pattern?
 
