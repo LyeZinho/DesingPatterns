@@ -1,6 +1,7 @@
 # DesingPatterns
-Aprendendo desing patterns
+Aprendendo desing patterns<br>
 Repositorio com documentação para os desing patterns
+<br><br><br><br>
 
 
 Fontes:
