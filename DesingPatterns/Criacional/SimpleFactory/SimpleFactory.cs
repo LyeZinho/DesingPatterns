@@ -69,4 +69,6 @@ namespace DesingPatterns.Criacional.SimpleFactory
     IPizzaSf pizza = PizzaFactory.CriarPizza(TipoPizza.marguerita);
     pizza.PrepararPizza(); 
     */
+
+
 }
