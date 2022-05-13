@@ -11,6 +11,19 @@ para problemas recorrentes durante o desenvolvimento de um software.<br>
 Não se trata de um framework ou um código pronto, mas de uma definição<br> 
 de alto nível de como um problema comum pode ser solucionado.
 <br><br>
+
+Checklist:
+| Criacional             | Comportamental | Estrutural |
+|------------------------|----------------|------------|
+| Simple factory - [x]   |                |            |
+| Factory - [x]          |                |            |
+| Abstract Factory - [x] |                |            |
+| Builder - [x]          |                |            |
+| Prototype - [x]        |                |            |
+| Singleton - [x]        |                |            |
+
+<br><br>
+
 Fontes:
 <table>
   <tr>
