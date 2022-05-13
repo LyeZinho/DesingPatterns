@@ -54,4 +54,4 @@ Minhas dicas pessoais para uma boa arquitetura!<br>
 <h4>2 - Funções são o deus do seu codigo! <br></h4>
 [ Tem função é pra usar não crie codigos espalhados pelo programa! Ao invéz disso faza uma função/metodo para ele caso veja que<br>
 isso pode se encaixar com mais de uma funcionalidade crie uma classe como mais metodos, isso pode facilitar a leitura e aumentar<br>
-a reutilização de codigo e diminui o acoplamento do programa ]<br><br>
+a reutilização de codigo e diminui o acoplamento do programa, ]<br><br>
