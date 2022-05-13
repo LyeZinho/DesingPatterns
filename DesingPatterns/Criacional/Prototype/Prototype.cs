@@ -65,7 +65,6 @@ namespace DesingPatterns.Criacional.Prototype
 }
 
 /*
-
 Prototype:
 
 O prototype especifica todos os objetos que serão criados 
