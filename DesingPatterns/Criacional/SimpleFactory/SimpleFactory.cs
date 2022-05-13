@@ -70,5 +70,4 @@ namespace DesingPatterns.Criacional.SimpleFactory
     pizza.PrepararPizza(); 
     */
 
-
 }
