@@ -8,8 +8,8 @@ Oque é um desing pattern?
 
 Design Patterns ou padrões de projetos são soluções generalistas<br> 
 para problemas recorrentes durante o desenvolvimento de um software.<br> 
-Não se trata de um framework ou um código pronto, mas de uma definição de alto nível<br> 
-de como um problema comum pode ser solucionado.
+Não se trata de um framework ou um código pronto, mas de uma definição<br> 
+de alto nível de como um problema comum pode ser solucionado.
 <br><br>
 Fontes:
 <table>
