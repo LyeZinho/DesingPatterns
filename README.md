@@ -39,8 +39,18 @@ Fontes:
 </table>
 <br>
 Links uteis:<br>
-<a href="https://pt.wikipedia.org/wiki/Abstração">Abstração</a><br>
-<a href="https://campuscode.com.br/conteudos/s-o-l-i-d-principio-de-inversao-de-dependencia">Inversão de dependencia</a><br>
-<a href="https://pt.wikipedia.org/wiki/Acoplamento_(programação_de_computadores)">Acoplamento</a><br>
-<a href="http://www.dsc.ufcg.edu.br/~jacques/cursos/p2/html/oo/design.htm">Regras de desing (OO)</a><br>
-<a href="https://docplayer.com.br/48904258-Boas-praticas-com-orientacao-a-objetos-paulo-silveira.html">Boas praticas</a><br>
+<a href="https://pt.wikipedia.org/wiki/Abstração">Abstração</a> <- Basico  porem importante saber oque é!<br> 
+<a href="https://campuscode.com.br/conteudos/s-o-l-i-d-principio-de-inversao-de-dependencia">Inversão de dependencia</a> <- Bons conceitos para se ter.<br> 
+<a href="https://pt.wikipedia.org/wiki/Acoplamento_(programação_de_computadores)">Acoplamento</a> <- Umas definições daoras.<br> 
+<a href="http://www.dsc.ufcg.edu.br/~jacques/cursos/p2/html/oo/design.htm">Regras de desing (OO)</a><- Importantissimo para melhorar os codigos.<br> 
+<a href="https://docplayer.com.br/48904258-Boas-praticas-com-orientacao-a-objetos-paulo-silveira.html">Boas praticas</a><- Leia! vai ajudar bastante.<br> 
+<br><br>
+Minhas dicas pessoais para uma boa arquitetura!<br>
+<br>
+<h4>1 - Passou de 10 linhas é relatorio! <br></h4>
+[Evite fazer codigos complicados que você não vai entender depois como ja disse um certo marinheiro KISS- Keep it simple stupid!<br>
+é preferivel ter 10 metodos simples que 100linhas complicadas!]<br><br>
+
+<h4>2 - Funções são o deus do seu codigo! <br></h4>
+[Tem função é pra usar não crie codigos espalhados pelo programa! Ao invéz disso faza uma função/metodo para ele caso veja que<br>
+isso pode se encaixar com mais de uma funcionalidade crie um metodo!]<br><br>
