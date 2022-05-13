@@ -44,7 +44,7 @@ Links uteis:<br>
 <a href="https://pt.wikipedia.org/wiki/Acoplamento_(programação_de_computadores)">Acoplamento</a> <- Umas definições daoras.<br> 
 <a href="http://www.dsc.ufcg.edu.br/~jacques/cursos/p2/html/oo/design.htm">Regras de desing (OO)</a><- Importantissimo para melhorar os codigos.<br> 
 <a href="https://docplayer.com.br/48904258-Boas-praticas-com-orientacao-a-objetos-paulo-silveira.html">Boas praticas</a><- Leia! vai ajudar bastante.<br> 
-<a href="https://www.youtube.com/watch?v=YKg4tN24kUA">Boas praticas</a><- Leia! vai ajudar bastante.<br> 
+<a href="https://www.youtube.com/watch?v=YKg4tN24kUA">Over-engeneering</a><- E uma boa refletir sobre isso.<br> 
 <br><br>
 Minhas dicas pessoais para uma boa arquitetura!<br>
 <br>
