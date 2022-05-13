@@ -15,7 +15,7 @@ de alto nível de como um problema comum pode ser solucionado.
 Checklist:
 | Criacional             | Comportamental | Estrutural |
 |------------------------|----------------|------------|
-| Simple factory - [x]   |                |            |
+| Simple factory - [x]   | Adapter - [x]  |            |
 | Factory - [x]          |                |            |
 | Abstract Factory - [x] |                |            |
 | Builder - [x]          |                |            |
