@@ -11,6 +11,10 @@ para problemas recorrentes durante o desenvolvimento de um software.<br>
 Não se trata de um framework ou um código pronto, mas de uma definição<br> 
 de alto nível de como um problema comum pode ser solucionado.
 <br><br>
+<h3>Antes de tudo lembre-se não use um canhão para matar uma formiga!<br>
+Nem sempre os desing patterns são a melhor escolha, sempre veja<br> 
+a situação e o lugar onde um desing pattern se encaixa no seu projeto!</h3>
+<br><br>
 
 Checklist:
 | Criacional             | Comportamental | Estrutural |
