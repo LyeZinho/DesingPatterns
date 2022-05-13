@@ -37,3 +37,10 @@ Fontes:
     <td><a href="https://www.youtube.com/watch?v=0sTfIZvjYJk&list=PLMdYygf53DP5SVQQrkKCVWDS0TwYLVitL">Filipe Deschamps<a/></td>
   </tr>
 </table>
+<br>
+Links uteis:<br>
+<a href="https://pt.wikipedia.org/wiki/Abstração">Abstração</a><br>
+<a href="https://campuscode.com.br/conteudos/s-o-l-i-d-principio-de-inversao-de-dependencia">Inversão de dependencia</a><br>
+<a href="https://pt.wikipedia.org/wiki/Acoplamento_(programação_de_computadores)">Acoplamento</a><br>
+<a href="http://www.dsc.ufcg.edu.br/~jacques/cursos/p2/html/oo/design.htm">Regras de desing (OO)</a><br>
+<a href="https://docplayer.com.br/48904258-Boas-praticas-com-orientacao-a-objetos-paulo-silveira.html">Boas praticas</a><br>
