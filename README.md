@@ -35,12 +35,14 @@ Fontes:
     <th>Playlist</th>
     <th>Playlist</th>
     <th>Canal</th>
+    <th>Website</th>
   </tr>
   <tr>
     <td><a href="https://www.youtube.com/playlist?list=PLJ4k1IC8GhW1L7fOWe238fetknEfBmG1I">Code With RaiGenics</></td>
     <td><a href="https://www.youtube.com/watch?v=CDZniFqC4cI&list=PL_xlJum5pRdD_TEiWf9jK4Ozzg8VJyDSe&index=5">Macoratti<a/></td>
     <td><a href="https://www.youtube.com/watch?v=0sTfIZvjYJk&list=PLMdYygf53DP5SVQQrkKCVWDS0TwYLVitL">Filipe Deschamps<a/></td>
     <td><a href="https://www.youtube.com/c/ArjanCodes">ArjanCodes<a/></td>
+    <td><a href="https://refactoring.guru/pt-br/design-patterns/">refactoring.guru<a/></td>
   </tr>
 </table>
 <br>
