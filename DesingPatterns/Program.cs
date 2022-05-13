@@ -5,8 +5,6 @@ static class Program
 {
     static void Main()
     {
-        Encomendas encomendas = new Encomendas();
-
-        encomendas.NovaEncomenda("Pedro kaleb");
+        
     }
 }
